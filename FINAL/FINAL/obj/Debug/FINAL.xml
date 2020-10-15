@@ -1,0 +1,111 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FINAL
+</name>
+</assembly>
+<members>
+<member name="T:FINAL.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:FINAL.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:FINAL.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:FINAL._phase1_final_1DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:FINAL._phase1_final_1DataSet.Phase1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FINAL._phase1_final_1DataSet.Phase2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FINAL._phase1_final_1DataSet.Phase1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FINAL._phase1_final_1DataSet.Phase2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FINAL._phase1_final_1DataSet.Phase1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FINAL._phase1_final_1DataSet.Phase2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FINAL._phase1_final_1DataSetTableAdapters.Phase1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FINAL._phase1_final_1DataSetTableAdapters.Phase2TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FINAL._phase1_final_1DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:FINAL._phase1_final_1DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(FINAL._phase1_final_1DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:FINAL._phase1_final_1DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(FINAL._phase1_final_1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:FINAL._phase1_final_1DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(FINAL._phase1_final_1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:FINAL._phase1_final_1DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:FINAL._phase1_final_1DataSetTableAdapters.TableAdapterManager.UpdateAll(FINAL._phase1_final_1DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:FINAL._phase1_final_1DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:FINAL._phase1_final_1DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

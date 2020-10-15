@@ -1,0 +1,12 @@
+C:\Users\josua\documents\visual studio 2015\Projects\FINAL\LogedIn\bin\Debug\LogedIn.exe.config
+C:\Users\josua\documents\visual studio 2015\Projects\FINAL\LogedIn\obj\Debug\LogedIn.vbprojResolveAssemblyReference.cache
+C:\Users\josua\documents\visual studio 2015\Projects\FINAL\LogedIn\obj\Debug\LogedIn.Resources.resources
+C:\Users\josua\documents\visual studio 2015\Projects\FINAL\LogedIn\obj\Debug\LogedIn.vbproj.GenerateResource.Cache
+C:\Users\josua\documents\visual studio 2015\Projects\FINAL\LogedIn\obj\Debug\LogedIn.xml
+C:\Users\josua\documents\visual studio 2015\Projects\FINAL\LogedIn\bin\Debug\LogedIn.exe
+C:\Users\josua\documents\visual studio 2015\Projects\FINAL\LogedIn\bin\Debug\LogedIn.pdb
+C:\Users\josua\documents\visual studio 2015\Projects\FINAL\LogedIn\bin\Debug\LogedIn.xml
+C:\Users\josua\documents\visual studio 2015\Projects\FINAL\LogedIn\obj\Debug\LogedIn.exe
+C:\Users\josua\documents\visual studio 2015\Projects\FINAL\LogedIn\obj\Debug\LogedIn.pdb
+C:\Users\josua\documents\visual studio 2015\Projects\FINAL\LogedIn\obj\Debug\LogedIn.Form2.resources
+C:\Users\josua\documents\visual studio 2015\Projects\FINAL\LogedIn\obj\Debug\LogedIn.Form3.resources
